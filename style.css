@@ -1,0 +1,62 @@
+body{
+
+    width: 1000px;
+    height: 1000px;
+background-color: cyan;}
+
+.titulo{
+    text-align: center;
+}
+
+img{
+border-radius: 100%;
+width: 440px;
+height: 440px;
+
+}
+
+ul{
+    list-style: none;}
+
+h1{ font-size: 40px;
+font-weight: bold;}
+h3{
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+
+.informacao{
+position: absolute;
+    left: 80px;
+    width: 800px;
+   
+}
+
+.ingredientes2{
+    font-weight: bold;
+    top: 660px;
+    position: absolute;
+    left: 80px;
+    }
+
+.ingredientes{
+position:absolute;
+top: 710px;
+float: left;
+left: 43px;
+}
+
+.modo{
+    position: absolute;
+    top: 850px;
+    left: 80px;
+}
+
+.preparo{
+    position: absolute;
+    top: 900px;
+    left: 59px;
+    width: 800px;
+}
